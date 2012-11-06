@@ -61,6 +61,7 @@
      NSLog(@"前台、、、、");
     // kakkakk
     // nihao
+    //jfdsalkj
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application
